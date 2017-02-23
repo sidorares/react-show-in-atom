@@ -1,0 +1,26 @@
+{
+  "name": "react-show-in-atom",
+  "version": "1.0.0",
+  "description": "Navigate to line of code where react element is defined by clicking on it",
+  "main": "locate-source.js",
+  "bin": {
+    "show-in-atom": "./locate-source.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidorares/react-show-in-atom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidorares/react-show-in-atom/issues"
+  },
+  "homepage": "https://github.com/sidorares/react-show-in-atom#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
