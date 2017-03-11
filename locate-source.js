@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const port = process.env.PORT || 3222
 
 const script = `
