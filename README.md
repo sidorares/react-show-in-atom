@@ -1,5 +1,7 @@
 # react-show-in-atom
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/react-show-in-atom.svg)](https://greenkeeper.io/)
+
 Navigate to line of code where react element is defined by clicking on it
 Currently only for Atom editor
 
