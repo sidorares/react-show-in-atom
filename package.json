@@ -1,6 +1,6 @@
 {
   "name": "react-show-in-atom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Navigate to line of code where react element is defined by clicking on it",
   "main": "locate-source.js",
   "bin": {
